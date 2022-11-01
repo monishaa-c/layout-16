@@ -1,0 +1,82 @@
+.header .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.header
+{
+	height:550px;
+	background-color:black;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .textbox
+{
+	height:490px;
+	width:550px;
+	background-color:lightgrey;
+	margin-top:25px;
+}
+.header .header-fc .image
+{
+	height:490px;
+	width:660px;
+	background-color:lightgrey;
+	margin-top:25px;
+}
+.body .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.body
+{
+	height:400px;
+	background-color:red;
+}
+.body .body-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.body .body-fc .boxa
+{
+	height:255px;
+	width:400px;
+	background-color:white;
+	margin-top:50px;
+}
+.body .body-fc .boxb
+{
+	height:255px;
+	width:400px;
+	background-color:white;
+	margin-top:50px;
+}
+.body .body-fc .boxc
+{
+	height:255px;
+	width:400px;
+	background-color:white;
+	margin-top:50px;
+}
+.website
+{
+background-color: black;
+height:120px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.website .website-fc .box
+{
+	width:300px;
+	height:90px;
+	background-color:white;
+	margin-top:15px;
+}
